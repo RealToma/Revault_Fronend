@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "esnext",
+    "baseUrl": ".",
+    "jsx": "react",
+    "checkjs": true,
+    "paths": {
+      "@src/*": ["./src/*"],
+      "@components/*": ["./components/*"],
+      "@assets/*": ["./src/assets/*"]
+    }
+  },
+  "exclude": ["node_modules", "**/node_modules/*", "build"]
+}

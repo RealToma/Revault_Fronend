@@ -1,0 +1,14 @@
+export const colorGrayscaleDark = "#0E1121";
+export const colorGrayscaleTitleActive = "#14162B";
+export const colorGrayscaleBody = "#424B6D";
+export const colorGrayscaleLabel = "#6E7691";
+export const colorGrayscaleLine = "#D9DDE9";
+export const colorGrayscaleOffWhite = "#FCFCFC";
+export const colorGrayscalePlaceholder = "#A0A7BD";
+export const colorSuccessDarkmode = "#2FE0B0";
+export const colorSuccessDefault = "#00BA88";
+export const colorErrorDefault = "#ED2E7E";
+export const colorErrorDark = "#C30052";
+export const colorPrimaryDefault = "#5F2EEA";
+export const colorPrimaryDark = "#3D00A2";
+export const colorWarningDefault = "#F4B740";

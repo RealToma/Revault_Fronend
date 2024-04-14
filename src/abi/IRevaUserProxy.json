@@ -1,0 +1,58 @@
+[
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "_vaultAddress",
+        "type": "address"
+      },
+      {
+        "internalType": "address",
+        "name": "_depositTokenAddress",
+        "type": "address"
+      },
+      {
+        "internalType": "address",
+        "name": "_vaultNativeTokenAddress",
+        "type": "address"
+      },
+      {
+        "internalType": "bytes",
+        "name": "_payload",
+        "type": "bytes"
+      }
+    ],
+    "name": "callDepositVault",
+    "outputs": [],
+    "stateMutability": "payable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "_vaultAddress",
+        "type": "address"
+      },
+      {
+        "internalType": "address",
+        "name": "_depositTokenAddress",
+        "type": "address"
+      },
+      {
+        "internalType": "address",
+        "name": "_vaultNativeTokenAddress",
+        "type": "address"
+      },
+      {
+        "internalType": "bytes",
+        "name": "_payload",
+        "type": "bytes"
+      }
+    ],
+    "name": "callVault",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]
